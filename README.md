@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yuki Yuigishi</h1>
-<!-- status -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YukiYuigishi&show_icons=true&locale=en&layout=compact" alt="YukiYuigishi" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yukiyuigishi&show_icons=true&locale=en" alt="yukiyuigishi" /></p>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukiyuigishi&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyuigishi&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yukiyuigishi&theme=dark&show_icons=true" alt="yukiyuigishi" /></a> </p>
+
+
 
 <h2>School</h2>
 <p>National Institute of Technology, Kurume College</p>
@@ -35,5 +38,10 @@
       <li>PIC</li>
     </ul>
   </li>
+  <li>OS
+    <ul>
+      <li>Arch Linux</li>
+      <li>Windows</li>
+      <li>WSL</li>
   </li>
 </ul>
