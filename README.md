@@ -16,8 +16,19 @@
   <li>Language
     <ul>
       <li>JavaScript/TypeScript</li>
+      <li>Golang</li>
       <li>HTML/CSS</li>
       <li>C/C++</li>
+      <li>Rust</li>
+      <li>Java</li>
+    </ul>
+  </li>
+  <li>Flamework
+    <ul>
+      <li>React/Next.js</li>
+      <li>Express</li>
+      <li>Hono.js</li>
+      <li>Echo</li>
     </ul>
   </li>
   <li>Tool
